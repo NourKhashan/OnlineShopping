@@ -1,0 +1,10 @@
+To enable U to send email via contact us 
+OR enable admin send email to seller after deleting:
+
+1- Enter your email and password into ContactMail.txt
+2- Allow less secure app 
+	https://myaccount.google.com/lesssecureapps
+
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
